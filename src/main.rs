@@ -1,6 +1,5 @@
-// mod types;
-mod strings;
+mod tuples ;
 
 fn main() {
-    strings::run();
+    tuples::run();
 }
